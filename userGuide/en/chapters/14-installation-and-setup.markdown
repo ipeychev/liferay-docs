@@ -183,6 +183,12 @@ subscription. Everything you need is provided in the Customer Portal, including
 download links that allow you to obtain a copy of a Liferay bundle or a `.war`
 package for installation on your application server of choice.
 
+With the release of Liferay Japanese Edition, Liferay's Japanese Localization
+Hook is now included in CE and EE version bundles. Since the hook was not
+completed until after the original release of Liferay 6.1.1 CE GA2 and 6.1.20 EE
+GA2, the original bundles do not have the hook. So we've made it available
+separately in Marketplace for download and installation. 
+
 So what is a bundle anyway? A bundle is an open source application server with
 Liferay preinstalled. This is the most convenient way to install Liferay.
 Liferay is bundled with a number of open source application servers; all you
